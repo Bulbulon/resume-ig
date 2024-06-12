@@ -1,0 +1,3 @@
+[submodule "submodules/GravityShift-Celestial-Pursuit"]
+	path = submodules/GravityShift-Celestial-Pursuit
+	url = https://github.com/bulbulon/GravityShift-Celestial-Pursuit.git
